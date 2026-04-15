@@ -1,0 +1,4 @@
+scripts/extract_text.py
+scripts/extract_websites.py
+scripts/extract_pdfs.py
+scripts/run_all.py
